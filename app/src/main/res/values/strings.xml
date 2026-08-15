@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV Converter Pro</string>
+    <string name="search">بحث</string>
+    <string name="search_hint">ابحث هنا...</string>
+    <string name="settings">الإعدادات</string>
+    <string name="converter">المحول</string>
+</resources>
