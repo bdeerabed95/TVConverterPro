@@ -1,0 +1,32 @@
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+build/
+.gradle/
+local.properties
+.idea/
+*.iml
+.cxx/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+
+# نظام
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Termux
+.storage/
